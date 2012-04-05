@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="2008A0/src"/>
+	<classpathentry kind="src" path="2008A1/src"/>
+	<classpathentry kind="src" path="2008B0/src"/>
+	<classpathentry kind="src" path="2009A0/src"/>
+	<classpathentry kind="src" path="2011A0/src"/>
+	<classpathentry kind="src" path="2011B0/src"/>
+	<classpathentry kind="src" path="2011C0/src"/>
+	<classpathentry kind="src" path="A2010A0/src"/>
+	<classpathentry kind="src" path="A2010A1/src"/>
+	<classpathentry kind="src" path="A2010B0/src"/>
+	<classpathentry kind="src" path="A2010B1/src"/>
+	<classpathentry kind="src" path="A2010C0/src"/>
+	<classpathentry kind="src" path="E2011A0/src"/>
+	<classpathentry kind="src" path="E2011B0/src"/>
+	<classpathentry kind="src" path="E2011C0/src"/>
+	<classpathentry kind="src" path="E2011D0/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="E2011D0/bin"/>
+</classpath>
