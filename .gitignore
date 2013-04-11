@@ -2,3 +2,6 @@ bin
 Debug
 .settings
 *.txt
+data.in
+data.out
+Makefile
